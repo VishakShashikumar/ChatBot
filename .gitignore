@@ -1,0 +1,6 @@
+/.venv
+/data
+*.env
+/__pycache__
+/logs
+/src/all_secrets.py
